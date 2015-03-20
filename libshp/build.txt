@@ -1,0 +1,2 @@
+wget ftp://ftp.pbone.net/mirror/ftp5.gwdg.de/pub/opensuse/repositories/Application%3A/Geo/CentOS_6/src/libshp1-1.2.10-11.2.src.rpm
+
